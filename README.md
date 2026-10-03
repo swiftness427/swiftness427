@@ -1,5 +1,5 @@
 <img width="236" height="236" alt="3376c540ddea5b240b1ba25e1dd79412" src="https://github.com/user-attachments/assets/17d08226-b4c9-4f5f-a5dc-be0c8cf966ef" />
-🌱 I’m currently learning how GitHub repos work.
+🌱 I’m currently learning how GitHub works.
 
 <!--
 **swiftness427/swiftness427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
